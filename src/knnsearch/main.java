@@ -19,7 +19,7 @@ public class main {
 		
 	//	System.out.println("distance AB = " + result.getDisAB());
 	//	System.out.println("distance AC = " + result.getDisAC());
-	//	System.out.println("distance BC = " + result.getDisBC());
+		System.out.println("distance BC = " + result.getDisBC());
 		System.out.println("hello");
 	}
 
